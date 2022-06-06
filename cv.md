@@ -36,6 +36,13 @@ My strengths, like perseverance and interest in new things, will help in this.
 
 >Basic knowledge of computer network
 
+## Code example
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
 ## Languages
 >Russian (native)
 
