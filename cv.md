@@ -9,6 +9,16 @@
 
 >**GitHub:** [nastya-dmd](https://github.com/nastya-dmd)
 ******
+## Education & Courses
+>2019-2014 International Sakharov Environmental University, ecologist-expert
 
+>2013 BELHARD Education Center "Software Testing"
+
+>2013 EPAM Systems "Software Testing Introduction"
+******
+## WorK Experience
+>2014-2017 MedSerwisTrans, Customer Service Specialist 
+
+>2017-2021 MedSerwisTrans, Controller of Measuring Devices
 
 
