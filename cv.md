@@ -9,6 +9,10 @@
 
 >**GitHub:** [nastya-dmd](https://github.com/nastya-dmd)
 ******
+## About me
+>When an opportunity comes along the way, I prefer to take advantage of it. Career change is one of them. My goal is to become a front-end developer.
+My strengths, like perseverance and interest in new things, will help in this.
+
 ## Education & Courses
 >2019-2014 International Sakharov Environmental University, ecologist-expert
 
@@ -31,6 +35,13 @@
 >Ability to write check-list, test-case, test-plan, bug-report
 
 >Basic knowledge of computer network
+
+## Languages
+>Russian (native)
+
+>English (pre-intermediate)
+
+>Polish (elementary)
 
 
 
