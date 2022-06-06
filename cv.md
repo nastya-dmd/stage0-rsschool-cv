@@ -21,4 +21,16 @@
 
 >2017-2021 MedSerwisTrans, Controller of Measuring Devices
 
+## Skills & Knowledge
+>Understanding software development process
+
+>Knowledge of software development methodologies (RUP, Waterfall, Agile)
+
+>Knowledge of the testing types
+
+>Ability to write check-list, test-case, test-plan, bug-report
+
+>Basic knowledge of computer network
+
+
 
