@@ -8,6 +8,7 @@
 >**Location:** Wroclaw, Poland
 
 >**GitHub:** [nastya-dmd](https://github.com/nastya-dmd)
+
 *****
 
 ## About me
